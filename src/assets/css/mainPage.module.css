@@ -1,0 +1,23 @@
+.title-font-position {
+    align-items: center;
+    display: flex;
+    padding-left: 25px;
+}
+.box-outter{
+    background: transparent linear-gradient(180deg, #EDF2F9 0%, #DAD5EB 100%) 0% 0% no-repeat padding-box;
+    /* height: 710px; */
+    width: auto;  
+    margin: auto;
+    position: relative;
+}
+.allContentVisibility-iconButton{
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.tab-font{
+    font: normal normal bold 18px/25px Microsoft JhengHei !important;
+    letter-spacing: 0px;
+    color: #597AFF;
+    opacity: 1;
+}

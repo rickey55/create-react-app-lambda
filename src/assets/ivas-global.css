@@ -1,0 +1,82 @@
+html{
+  background-color:#DAD5EB;
+}
+
+.title {
+  height: 80px;
+}
+
+.title-font {
+  line-height: 80px;
+  padding-left: 25px;
+}
+
+body {
+  background: transparent linear-gradient(180deg, #edf2f9 0%, #dad5eb 100%) 0% 0% no-repeat padding-box !important;
+  opacity: 1;
+}
+
+.pbc-header {
+  height: 100px;
+  padding-top: 25px;
+}
+
+.pbc-wrapper {
+  background: transparent linear-gradient(180deg, #edf2f9 0%, #dad5eb 100%) 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.pbc-mainContent {
+  border: none !important;
+  box-shadow: none !important;
+  background-color: #dad5eb !important;
+  padding-top: 55px;
+}
+
+.title-font {
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-18) /
+    var(--unnamed-line-spacing-24) var(--unnamed-font-family-microsoft-jhenghei);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 22px/24px Microsoft JhengHei;
+  letter-spacing: 0px;
+  color: #597aff;
+  opacity: 1;
+}
+
+.title-sign {
+  background: #597aff 0% 0% no-repeat padding-box;
+  font-weight: bold;
+  opacity: 1;
+}
+
+.footer-font {
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-13) / 17px
+    Segoe UI;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal normal 14px/17px Segoe UI !important;
+  letter-spacing: 0px;
+  color: #734c7e;
+  opacity: 1;
+}
+
+ /* for other page common use */
+.title-font-position {
+  align-items: center;
+  display: flex;
+  padding-left: 25px;
+}
+.box-outter{
+  background: transparent linear-gradient(180deg, #EDF2F9 0%, #DAD5EB 100%) 0% 0% no-repeat padding-box;
+  /* height: 710px; */
+  width: auto;  
+  margin: auto;
+  position: relative;
+}
+.tab-font{
+  font: normal normal bold 18px/25px Microsoft JhengHei !important;
+  letter-spacing: 0px;
+  color: #597AFF;
+  opacity: 1;
+}

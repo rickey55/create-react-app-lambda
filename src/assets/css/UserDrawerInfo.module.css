@@ -1,0 +1,64 @@
+.logoutButton{
+    background: #21242D 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF !important;
+    border-radius: 22px !important;
+    width: -webkit-fill-available;
+    padding-top: 13px !important;
+    padding-bottom: 13px !important;
+    margin-left: 35px !important;
+    margin-right: 30px !important;
+    opacity: 1;
+}
+
+.logoutButtonIcon{
+    color: #FFFFFF;
+}
+
+.logoutText{
+    color:#FFFFFF;
+    font:normal normal bold 17px/17px Microsoft JhengHei;
+}
+
+.changeTelentButton{
+    background: transparent linear-gradient(90deg, #098AFF 0%, #3E5BFA 100%) 0% 0% no-repeat padding-box;
+    border-radius: 22px !important;
+    padding-top: 13px !important;
+    padding-bottom: 13px !important;
+    margin-left: 30px !important;
+    margin-right: 20px !important;
+    width: -webkit-fill-available;
+    opacity: 1;
+}
+
+.changeTelentButton:hover{
+    background: transparent linear-gradient(90deg, #FFC011 0%, #FFC011  100%) 0% 0% no-repeat padding-box;
+    border-radius: 22px !important;
+    padding-top: 13px !important;
+    padding-bottom: 13px !important;
+    margin-left: 30px !important;
+    margin-right: 20px !important;
+    width: -webkit-fill-available;
+    opacity: 1;
+}
+
+.userName{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-16)/21px var(--unnamed-font-family-microsoft-jhenghei);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal normal 20px/21px Microsoft JhengHei;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.departmentName{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-14)/19px var(--unnamed-font-family-microsoft-jhenghei);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal normal 18px/19px Microsoft JhengHei;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}

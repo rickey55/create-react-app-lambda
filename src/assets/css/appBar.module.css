@@ -1,0 +1,39 @@
+.userInfoDrawer{
+    z-index: 2;
+}
+
+/* MenuButton */
+.IconMenuButton{
+    background: #6071FF 0% 0% no-repeat padding-box;
+    border: 1px solid #FFC011 !important;
+    border-radius: 19px !important;
+    width: 100%;
+    height: auto;
+}
+
+.isVisible-IconMenuButton{
+    background: #FFC011 0% 0% no-repeat padding-box !important;
+    border: 1px solid #FFC011 !important;
+    border-radius: 19px !important;
+    width: 100%;
+    height: auto;
+}
+
+.IconButtonMenuIcon{
+    color: #FFC011;
+}
+
+.isVisible-IconButtonMenuIcon{
+    color: #ffffff;
+}
+
+.IconButtonMenuText{
+    color: #FFC011;
+    font-size: 20px;
+}
+
+.isVisible-IconButtonMenuText{
+    color: #ffffff;
+    font-size: 20px;
+}
+

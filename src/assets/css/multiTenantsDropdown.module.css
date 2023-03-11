@@ -1,0 +1,13 @@
+  .selectList {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E6E6E6;
+    border-radius: 20px !important;
+  }
+  
+  select option{
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E6E6E6;
+    border-radius: 20px;
+    opacity: 1;
+  }

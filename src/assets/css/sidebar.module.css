@@ -1,0 +1,93 @@
+.myWrapper {
+  background-image: url('../image/sidbr-bg.png');
+}
+
+.list-item {
+  height: 52px;
+}
+
+.list-item-highlight {
+  height: 52px;
+  /* UI Properties */
+  background: #244069 0% 0% no-repeat padding-box !important;
+  opacity: 1;
+
+  padding-left: 0px !important;
+}
+
+.list-item-highlight-bar {
+  width: 6px;
+  height: 52px;
+  /* UI Properties */
+  background: var(--unnamed-color-ffc011) 0% 0% no-repeat padding-box;
+  background: #ffc011 0% 0% no-repeat padding-box;
+  opacity: 1;
+
+  margin-right: 16px;
+}
+
+.list-item:hover {
+  background: #244069 0% 0% no-repeat padding-box !important;
+  opacity: 1;
+
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-15) /
+    var(--unnamed-line-spacing-20) var(--unnamed-font-family-microsoft-jhenghei);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-d2e2f6);
+  text-align: left;
+  font: normal normal bold 15px/20px Microsoft JhengHei;
+  letter-spacing: 0px;
+  color: #d2e2f6;
+}
+
+.child-item {
+  height: 46px;
+  /* UI Properties */
+  background: #091b36 0% 0% no-repeat padding-box !important;
+  box-shadow: inset 0px 3px 6px #00000029;
+  opacity: 1;
+}
+
+.child-item:hover {
+  background: #091b36 0% 0% no-repeat padding-box !important;
+  box-shadow: inset 0px 3px 6px #00000029;
+  opacity: 1;
+
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-15) /
+    var(--unnamed-line-spacing-20) var(--unnamed-font-family-microsoft-jhenghei);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-ffffff);
+  text-align: left;
+  font: normal normal bold 15px/20px Microsoft JhengHei;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.child-item-highlight {
+  height: 46px;
+  /* UI Properties */
+  background: #091b36 0% 0% no-repeat padding-box !important;
+  color: #ffc011 !important;
+  box-shadow: inset 0px 3px 6px #00000029;
+  opacity: 1;
+}
+
+.sidebarMeun-active {
+  background-color: 'red';
+}
+
+.functionSearch {
+  background: #17304d 0% 0% no-repeat padding-box;
+  width: 80%;
+  height: fit-content;
+  border-radius: 20px;
+  padding-left: 40px;
+  opacity: 1;
+  border-color: currentColor;
+}
+
+.functionSearch:focus {
+  background: #17304d 0% 0% no-repeat padding-box;
+  color: #ffffff;
+}

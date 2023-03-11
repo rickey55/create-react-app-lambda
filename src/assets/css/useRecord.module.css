@@ -1,0 +1,36 @@
+/* Index */
+.selectList {
+    width: 10vw;
+    height: 40px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E6E6E6;
+    border-radius: 20px;
+  
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-14)/19px var(--unnamed-font-family-microsoft-jhenghei);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal normal 14px/19px Microsoft JhengHei;
+    letter-spacing: 0px;
+    color: #A5A5A5;
+    opacity: 1;
+  }
+  
+  select option{
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E6E6E6;
+    border-radius: 20px;
+    opacity: 1;
+  }
+
+.areaSearch{
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-d2d2d2);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D2D2D2;
+    border-radius: 20px;
+    opacity: 1;
+    width: 80%;
+    margin-left: 50px;
+}
